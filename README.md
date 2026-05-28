@@ -1,24 +1,52 @@
 <div align="center">
-  
-# Привет, я IGOR :orangutan:
 
-</div>
+# Привет, я Igor 👋
 
-Парень 21 год. Основной язык - C#, в последнее время активно пишу на js. Есть канал на Ютубе, на который до сих пор кто-то подписывается. Кто эти люди? Откуда они знают, что я уже не первую неделю хочу новый видос дропнуть спустя 3 года. Люблю смотреть Твич. Спасибо провайдеру, что даёт 1тб трафика каждый месяц на это.
+Backend-разработчик на C# / .NET
+Интересуюсь архитектурой backend-систем, интеграциями и инфраструктурой.
 
-<div align="center">
-  <a href="https://ibb.co/0Z9MyJW"><img src="https://i.ibb.co/d6p24K3/Gwalt-Logopng.png" alt="Gwalt-Logopng" border="0" width="275px"></a>
 </div>
 
 ---
 
-🆔 На данный момент есть два активных проекта Gwalt и MetaRun. Правда, второй пока на каникулах. Найти бы силы дописать эти проекты и начать бы уже приложение по аналитике twitch каналов крафтить.
+## 🛠 Основной стек
 
-🟪 Готов принять участие в интересных проектах. Можем, например, сервак по майнкрафту поднять или мод написать. Тг для связи @Bellatrix270.
+* C# / .NET / ASP.NET Core
+* PostgreSQL / MongoDB / Redis
+* EF Core
+* Docker / Linux
+* Hangfire
+* REST API
+* CQRS / MediatR
 
-🟣 [Мой второй GitHub](https://github.com/Bellatrix270) для тестовых проектов и прочей мелочи.
+---
 
-<!---
-Sevriukoff/Sevriukoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Open-source проекты
+
+### Gwalt
+
+Платформа для стриминга и загрузки музыки.
+
+Основные технологии:
+
+* ASP.NET Core
+* JWT / OpenIddict
+* Object Storage (S3 compatible)
+* Docker
+
+### MetaRun *(в разработке)*
+
+Экспериментальный мод для Risk of Rain 2, связанный с аналитикой и backend-инструментами.
+
+---
+
+## 📌 О себе
+
+.NET разработчик, интересующийся информационными технологиями и тем, как они способны автоматизировать рутинные процессы и трансформировать бизнес. На данный момент сфокусирован на backend разработке. Есть опыт разработки приложений на Xamarin и WPF. В связи с большой заинтересованностью web технологий, работаю и с frontend технологиями, в частности используя Next.js с возможностью дальнейшего перехода на full stack разработку. Есть хобби в рамках которого создаю различные небольшие скетчи с использованием микроконтроллеров arduino/esp, работал с smart home api.
+
+---
+
+## 🔗 Контакты
+
+* Telegram: @dikiykanban
+* GitHub: https://github.com/Bellatrix270
