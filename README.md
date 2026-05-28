@@ -2,8 +2,7 @@
 
 # Привет, я Igor 👋
 
-Backend-разработчик на C# / .NET
-Интересуюсь архитектурой backend-систем, интеграциями и инфраструктурой.
+Backend-разработчик на C# / .NET. Строю backend-системы, orchestration flow и data pipelines.
 
 </div>
 
